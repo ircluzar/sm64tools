@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\DOCUMENTS\PROJECTS\SM64TOOLS\CMAKEFILES\CF8BCD3916F2ACD9DFC3D20A09C240F4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Admin/Documents/PROJECTS/sm64tools -BC:/Users/Admin/Documents/PROJECTS/sm64tools --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/Documents/PROJECTS/sm64tools/sm64tools.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

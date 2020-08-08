@@ -1,0 +1,14 @@
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/sm64extend.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/sm64.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/sm64compress.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/sm64walk.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/f3d.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/f3d2obj.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/sm64geo.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/mio0.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/n64split.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/mipsdisasm.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/n64cksum.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/n64graphics.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/ALL_BUILD.dir
+C:/Users/Admin/Documents/PROJECTS/sm64tools/CMakeFiles/ZERO_CHECK.dir

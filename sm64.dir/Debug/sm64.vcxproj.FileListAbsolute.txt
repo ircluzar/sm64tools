@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\PROJECTS\sm64tools\Debug\sm64.pdb
+C:\Users\Admin\Documents\PROJECTS\sm64tools\sm64.dir\Debug\sm64.pdb

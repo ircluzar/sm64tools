@@ -1,0 +1,9 @@
+﻿  mipsdisasm.c
+C:\Users\Admin\Documents\PROJECTS\sm64tools\mipsdisasm.c(7,10): fatal error C1083: Cannot open include file: 'capstone/capstone.h': No such file or directory
+  n64split.c
+C:\Users\Admin\Documents\PROJECTS\sm64tools\n64split.c(7,10): fatal error C1083: Cannot open include file: 'zlib.h': No such file or directory
+  n64graphics.c
+C:\Users\Admin\Documents\PROJECTS\sm64tools\n64graphics.c(3,10): fatal error C1083: Cannot open include file: 'strings.h': No such file or directory
+  yamlconfig.c
+C:\Users\Admin\Documents\PROJECTS\sm64tools\yamlconfig.c(5,10): fatal error C1083: Cannot open include file: 'yaml.h': No such file or directory
+  Generating Code...
